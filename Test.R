@@ -4,3 +4,11 @@
 
 22 + 5 / 3
 
+# click box in Git tab, then commit it, give description
+
+# push afterwards
+#   error - now going to command line
+
+# denied access
+
+40 * 2
