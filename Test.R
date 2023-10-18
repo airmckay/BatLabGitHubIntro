@@ -12,3 +12,7 @@
 # denied access
 
 40 * 2
+
+#>>> C:/Program Files/Git/cmd/git.exe push origin HEAD:refs/heads/Jackson
+#remote: Permission to airmckay/BatLabGitHubIntro.git denied to oakhelling.
+#fatal: unable to access 'https://github.com/airmckay/BatLabGitHubIntro/': The requested URL returned error: 403
